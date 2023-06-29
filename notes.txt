@@ -1,8 +1,6 @@
 APUNTES DE CLASE
 
-01-variables
-
-    - JS -> camelCase
+    - JS -> camelCase (en principio)
     - JS -> HOISTING, agrupa el orden de carga de elementos
-
-
+    - METODOS -> llevan PARENTESIS ()
+    - PROPIEDADES -> llevan PUNTO .prop
