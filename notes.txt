@@ -4,3 +4,6 @@ APUNTES DE CLASE
     - JS -> HOISTING, agrupa el orden de carga de elementos
     - METODOS -> llevan PARENTESIS ()
     - PROPIEDADES -> llevan PUNTO .prop
+
+    - OPTION (ALT) + SHIFT + A --> Comentar BLOQUES
+    - OPTION (ALT) + SHIFT + F --> Formateado de TEXTO, está seleccionado Prettier
