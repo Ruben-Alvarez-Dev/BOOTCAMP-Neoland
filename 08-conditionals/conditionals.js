@@ -35,6 +35,7 @@ const puedoEntrar =
 
 // Para más opciones, según el caso X, Y, Z...
 // Más optimizado a varios resultados
+// El BREAK rompe el bloque de código, hace como cierre de llaves
 
 const superHero = "Spidffer-Man";
 
